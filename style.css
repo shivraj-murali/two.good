@@ -100,10 +100,7 @@ html,body{
     margin-top: 11rem;
 }
 
-.first{
-    display: inline-block;
-    margin-right: 3rem;
-}
+
 
 #videoContainer{
     height: 100vh;
